@@ -3,11 +3,10 @@
 Horizon Database est une application web composée d’une API en php native et d’un client web en typescript permettant d’interagir avec une base de données.
 
 ## Structure du projet
-Horizon-Database/
-├── API/        # Code backend (PHP)
-├── Client/     # Interface utilisateur (HTML / CSS / TypeScript)
-├── .gitignore
-└── README.md
+- API/        # Code backend (PHP)
+- Client/     # Interface utilisateur (HTML / CSS / TypeScript)
+- .gitignore
+- README.md
 
 ## Fonctionnalités
 - Endpoints de type REST pour gérer les données
@@ -21,4 +20,5 @@ Horizon-Database/
 - Backend : PHP, TypeScript
 - Base de données : MySQL
 - Hébergement : XAMPP
+
 
