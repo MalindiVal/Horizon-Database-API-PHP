@@ -2,8 +2,6 @@ node_modules/
 .node_modules/
 built/*
 *.config
-Client/js/**/*.js
-Client/js/**/*.js.map
 **/.DS_Store
 .settings
 **/.vs
@@ -19,5 +17,3 @@ package-lock.json
 .eslintcache
 *v8.log
 /lib/
-Client/Client.code-workspace
-Horizon-Database.code-workspace
